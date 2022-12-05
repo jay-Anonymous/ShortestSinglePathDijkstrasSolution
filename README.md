@@ -1,4 +1,4 @@
-# Network Flows Optimization
+# ShortestSinglePathDijksstrasSolution
 
 Shortest Path Problem Algorithms:
 
